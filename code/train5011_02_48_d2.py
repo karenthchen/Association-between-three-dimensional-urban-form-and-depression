@@ -69,12 +69,12 @@ timeCreated =time.strftime('%Y-%m-%d-%H', time.localtime(time.time()))
 fileSave=  file0 + str(learnRate) + '_' + str(nn) + '_' + str(batch_size)
 checkpoint = ModelCheckpoint(fileSave+"weights.best.hdf5", monitor='val_loss', verbose=1, save_best_only=True, save_weights_only=False, mode='auto', period=1)
 
-tbCallBack = TensorBoard(log_dir=file0+'logs' + '_' + str(nn) + '_' + str(batch_size) + '_' + timeCreated,  # log 目录
-                 histogram_freq=0,  # 按照何等频率（epoch）来计算直方图，0为不计算
-#                  batch_size=32,     # 用多大量的数据计算直方图
-                 write_graph=True,  # 是否存储网络结构图
-                 write_grads=True, # 是否可视化梯度直方图
-                 write_images=True,# 是否可视化参数
+tbCallBack = TensorBoard(log_dir=file0+'logs' + '_' + str(nn) + '_' + str(batch_size) + '_' + timeCreated,  # log
+                 histogram_freq=0,
+#                  batch_size=32, 
+                 write_graph=True, 
+                 write_grads=True,
+                 write_images=True,
                  embeddings_freq=0,
                  embeddings_layer_names=None,
                  embeddings_metadata=None)
