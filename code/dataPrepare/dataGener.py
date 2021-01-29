@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 12 21:06:42 2017
 
-@author: qiu
-"""
 
 import numpy as np
 import h5py
