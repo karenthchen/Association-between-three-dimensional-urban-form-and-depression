@@ -1,6 +1,3 @@
-# @Date:   2018-11-04T13:39:47+01:00
-# @Email:  chunping.qiu@tum.de
-# @Last modified time: 2019-01-02T19:01:13+01:00
 
 import sys
 sys.path.insert(0, '/home/qiu/CodeSummary/img2map/img2LCZmap_S2/s2p/python_scripts')
