@@ -13,5 +13,4 @@ https://drive.google.com/drive/folders/1uYab6KiHIODisqT_Kx8tkdZJG2rZzz3w?usp=sha
 - To predict outcomes, run python code/modelPredict/img2map5011_02_d2_48.py
 
 ## Individual level data
-- Access to mental health records, address, and socioeconomic variables is restricted by the Danish authorities.
-- These include the Danish Data Protection Agency, the Danish Health Data Authority, the Ethical Committee, and Statistics Denmark.
+- Access to individual mental health records, address, and socioeconomic status is restricted by the Danish authorities. These include the Danish Data Protection Agency, the Danish Health Data Authority, the Ethical Committee, and Statistics Denmark.
