@@ -1,4 +1,4 @@
-# Three-dimensional-urban-structure-correlates-with-the-risk-of-mental-disorders
+# Association between three-dimensional urban form and depression 
 
 
 ## Code for obtaining annual satellite composites
