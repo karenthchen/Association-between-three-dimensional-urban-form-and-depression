@@ -1,4 +1,4 @@
-# Association between three-dimensional urban form and depression 
+# Higher depression risks in medium-density than high-density urban form across Denmark
 
 
 ## Code for obtaining annual satellite composites
