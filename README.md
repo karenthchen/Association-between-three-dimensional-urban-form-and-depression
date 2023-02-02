@@ -25,8 +25,8 @@ https://drive.google.com/drive/folders/1uYab6KiHIODisqT_Kx8tkdZJG2rZzz3w?usp=sha
 6: Low-density low-rise
 7: Non-built-up areas,
 0: No data
-- Citation:
-Chen, T. H. K., Qiu, C., Schmitt, M., Zhu, X. X., Sabel, C. E., & Prishchepov, A. V. (2020). Mapping horizontal and vertical urban densification in Denmark with Landsat time-series from 1985 to 2018: A semantic segmentation solution. Remote Sensing of Environment, 251, 112096.
+- Reference:
+Chen, T. H. K., Qiu, C., Schmitt, M., Zhu, X. X., Sabel, C. E., & Prishchepov, A. V. (2020). Mapping horizontal and vertical urban densification in Denmark with Landsat time-series from 1985 to 2018: A semantic segmentation solution. Remote Sensing of Environment, 251, 112096. https://doi.org/10.1016/j.rse.2020.112096
 
 ## Individual level data
 - Access to individual mental health records, address, and socioeconomic status is restricted by the Danish authorities. These include the Danish Data Protection Agency, the Danish Health Data Authority, the Ethical Committee, and Statistics Denmark.
