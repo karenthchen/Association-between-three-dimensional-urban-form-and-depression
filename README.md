@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/1uYab6KiHIODisqT_Kx8tkdZJG2rZzz3w?usp=sha
 - To train the model, run python code/train5011_02_48_d2.py
 - To predict outcomes, run python code/modelPredict/img2map5011_02_d2_48.py
 
-## Annual 3-D Urban Form Map of Denmark 1987-2018
+## Annual 3-D Urban Form Maps of Denmark 1987-2018
 - Download: https://drive.google.com/drive/folders/1Nwa8alNpBUL8w4XlqPDUFOn-PN1iyhQk?usp=sharing
 - Data format: TIFF
 - Can be opened in GIS or programming environments.
