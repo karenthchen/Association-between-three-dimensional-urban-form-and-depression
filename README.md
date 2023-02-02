@@ -18,7 +18,7 @@ https://drive.google.com/drive/folders/1uYab6KiHIODisqT_Kx8tkdZJG2rZzz3w?usp=sha
 - Can be opened in GIS or programming environments.
 - Code: 
 1: High-density high-rise, 
-2: High-density low rise,
+2: High-density low-rise,
 3: Medium-density high-rise,
 4: Medium-density low-rise,
 5: Low-density high-rise,
