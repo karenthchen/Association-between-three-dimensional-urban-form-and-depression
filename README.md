@@ -23,7 +23,7 @@ https://drive.google.com/drive/folders/1uYab6KiHIODisqT_Kx8tkdZJG2rZzz3w?usp=sha
 4: Medium-density low-rise,
 5: Low-density high-rise,
 6: Low-density low-rise
-7: Non-built-up areas
+7: Non-built-up areas,
 0: No data
 - Citation:
 Chen, T. H. K., Qiu, C., Schmitt, M., Zhu, X. X., Sabel, C. E., & Prishchepov, A. V. (2020). Mapping horizontal and vertical urban densification in Denmark with Landsat time-series from 1985 to 2018: A semantic segmentation solution. Remote Sensing of Environment, 251, 112096.
