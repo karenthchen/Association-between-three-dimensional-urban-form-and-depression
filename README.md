@@ -1,5 +1,6 @@
-# Higher depression risks in medium-density than high-density urban form across Denmark
-
+# Higher depression risks in medium- than high-density urban form across Denmark
+This repository provides the data and code of this paper:
+Tzu-Hsin Karen Chen et al. ,Higher depression risks in medium- than in high-density urban form across Denmark.Sci. Adv.9,eadf3760(2023).DOI:10.1126/sciadv.adf3760
 
 ## Code for obtaining annual satellite composites
 https://code.earthengine.google.com/d5eebdd289d32e0e3db58184b5bfa6ba
